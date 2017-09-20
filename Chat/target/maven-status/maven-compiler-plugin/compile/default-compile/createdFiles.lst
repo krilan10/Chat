@@ -1,0 +1,4 @@
+com\mycompany\chat\RestConfig.class
+com\mycompany\chat\ForumService.class
+com\mycompany\chat\domain\Conversation.class
+com\mycompany\chat\domain\Message.class
